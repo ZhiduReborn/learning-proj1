@@ -1,3 +1,4 @@
-function person(){
-	console.log
-}
+import MobileMenu from './modules/MobileMenu';
+
+var mobileMenu = new MobileMenu();
+
